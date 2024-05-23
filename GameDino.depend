@@ -1,0 +1,197 @@
+# depslib dependency file v1.0
+1715223327 source:c:\users\pc\onedrive\documents\gamepro\gamedino\character.cpp
+	"Character.h"
+	"GameBase.h"
+
+1715223327 c:\users\pc\onedrive\documents\gamepro\gamedino\character.h
+	"GameBase.h"
+
+1715241316 c:\users\pc\onedrive\documents\gamepro\gamedino\gamebase.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+	"Enemy.h"
+
+1715245830 c:\users\pc\onedrive\documents\gamepro\gamedino\enemy.h
+	"GameBase.h"
+
+1715236320 source:c:\users\pc\onedrive\documents\gamepro\gamedino\enemy.cpp
+	"Enemy.h"
+	"GameBase.h"
+
+1715239799 source:c:\users\pc\onedrive\documents\gamepro\gamedino\gamebase.cpp
+	"GameBase.h"
+
+1715223327 source:c:\users\pc\onedrive\documents\gamepro\gamedino\time.cpp
+	"Time.h"
+	"GameBase.h"
+
+1715223327 c:\users\pc\onedrive\documents\gamepro\gamedino\time.h
+
+1715246574 source:c:\users\pc\onedrive\documents\gamepro\gamedino\main.cpp
+	"GameBase.h"
+	"Enemy.h"
+	"Character.h"
+	"Time.h"
+	"Text.h"
+
+1715223327 c:\users\pc\onedrive\documents\gamepro\gamedino\text.h
+	"GameBase.h"
+
+1715237779 source:c:\users\pc\onedrive\documents\gamepro\gamedino\text.cpp
+	"Text.h"
+
+1715223327 source:d:\gamepro\gamedino\character.cpp
+	"Character.h"
+	"GameBase.h"
+
+1715223327 d:\gamepro\gamedino\character.h
+	"GameBase.h"
+
+1715241316 d:\gamepro\gamedino\gamebase.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+	"Enemy.h"
+
+1715245830 d:\gamepro\gamedino\enemy.h
+	"GameBase.h"
+
+1715236320 source:d:\gamepro\gamedino\enemy.cpp
+	"Enemy.h"
+	"GameBase.h"
+
+1715239799 source:d:\gamepro\gamedino\gamebase.cpp
+	"GameBase.h"
+
+1715246574 source:d:\gamepro\gamedino\main.cpp
+	"GameBase.h"
+	"Enemy.h"
+	"Character.h"
+	"Time.h"
+	"Text.h"
+
+1715223327 d:\gamepro\gamedino\time.h
+
+1715223327 d:\gamepro\gamedino\text.h
+	"GameBase.h"
+
+1715237779 source:d:\gamepro\gamedino\text.cpp
+	"Text.h"
+
+1715223327 source:d:\gamepro\gamedino\time.cpp
+	"Time.h"
+	"GameBase.h"
+
+1715931907 source:d:\gamepro\dinoex\character.cpp
+	"Character.h"
+	"GameBase.h"
+
+1715223327 d:\gamepro\dinoex\character.h
+	"GameBase.h"
+
+1715931321 d:\gamepro\dinoex\gamebase.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+	"Enemy.h"
+
+1715932671 d:\gamepro\dinoex\enemy.h
+	"GameBase.h"
+
+1715932657 source:d:\gamepro\dinoex\enemy.cpp
+	"Enemy.h"
+	"GameBase.h"
+
+1715239799 source:d:\gamepro\dinoex\gamebase.cpp
+	"GameBase.h"
+
+1715926664 source:d:\gamepro\dinoex\main.cpp
+	"GameBase.h"
+	"Enemy.h"
+	"Character.h"
+	"Time.h"
+	"Text.h"
+
+1715223327 d:\gamepro\dinoex\time.h
+
+1715223327 d:\gamepro\dinoex\text.h
+	"GameBase.h"
+
+1715237779 source:d:\gamepro\dinoex\text.cpp
+	"Text.h"
+
+1715223327 source:d:\gamepro\dinoex\time.cpp
+	"Time.h"
+	"GameBase.h"
+
+1715931907 source:d:\gamepro\dinogame\character.cpp
+	"Character.h"
+	"GameBase.h"
+
+1715223327 d:\gamepro\dinogame\character.h
+	"GameBase.h"
+
+1715931321 d:\gamepro\dinogame\gamebase.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+	"Enemy.h"
+
+1715932671 d:\gamepro\dinogame\enemy.h
+	"GameBase.h"
+
+1715937512 source:d:\gamepro\dinogame\enemy.cpp
+	"Enemy.h"
+	"GameBase.h"
+
+1715239799 source:d:\gamepro\dinogame\gamebase.cpp
+	"GameBase.h"
+
+1715934970 source:d:\gamepro\dinogame\main.cpp
+	"GameBase.h"
+	"Enemy.h"
+	"Character.h"
+	"Time.h"
+	"Text.h"
+
+1715223327 d:\gamepro\dinogame\time.h
+
+1715223327 d:\gamepro\dinogame\text.h
+	"GameBase.h"
+
+1715237779 source:d:\gamepro\dinogame\text.cpp
+	"Text.h"
+
+1715223327 source:d:\gamepro\dinogame\time.cpp
+	"Time.h"
+	"GameBase.h"
+
