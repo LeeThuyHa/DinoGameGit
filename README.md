@@ -22,7 +22,7 @@ Mã sinh viên: 23020603
 - Có thể lưu lại điểm số cao nhất nhờ đọc ghi file.
 - Khả năng tổ chức code, nạp chồng toán tử, tạo các đối tượng.
 
-## Ngưỡng điểm tự đánh giá 7-8
+## _Ngưỡng điểm tự đánh giá 7-8_
 
 ## _Kết luận_
 ### Ưu điểm:
